@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+python-dotenv
+beautifulsoup4
+wikipedia
+requests
+numexpr
+pydantic
+chromadb
+faiss-cpu
+langchain-huggingface
+langchain-chroma

@@ -120,5 +120,4 @@ Try asking the assistant things like:
 - 🛠️ Skilled in Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LangChain, and MLOps
 - 💡 Passionate about building practical AI applications and open-source projects
 - 🔗 GitHub: [gojo2005](https://github.com/gojo2005)
-- 💼 LinkedIn: [Add your LinkedIn URL here](www.linkedin.com/in/prithvi-raj-mukhiya-b963612b2)
-- 
+  
